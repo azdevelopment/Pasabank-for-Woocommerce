@@ -1,6 +1,6 @@
 # Pasabank-for-Woocommerce
 Home qovluğunda olan bütün faylları root folder içərisinə atın. Paşabanka Callback url üçün https://saytiniz.com/okpayment.php təyin etmələrini tələb edin
-payment.php və okpayment.php fayllarındakı sertifikatlarızın yolunu təyin edin.
+payment.php və okpayment.php faylların içindəki müəyyən edilmiş sətirlərə sertifikatlarızın yolunu təyin edin.
 
 Plugin kommersiya məqsədi daşımadığı üçün avtomatlaşdırılmayıb hər şeyi manual etməlisiniz. 
 
