@@ -4,7 +4,7 @@ payment.php və okpayment.php faylların içindəki müəyyən edilmiş sətirl�
 
 Plugin kommersiya məqsədi daşımadığı üçün avtomatlaşdırılmayıb hər şeyi manual etməlisiniz. 
 
-Qeyd 
+Qeyd: 
 əgər satış dollar ilə deyilsə payment.php içərisindəki 13-cü sətirdəki : 
 # $amount = number_format(($amount), 2, '', '') * 1.70; 
 aşağıdakı kod ilə dəyişin.
